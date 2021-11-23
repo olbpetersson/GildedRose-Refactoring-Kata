@@ -1,5 +1,5 @@
 This is a fork of Emily Baches https://github.com/emilybache/GildedRose-Refactoring-Kata.
-This fork is stripped down to the essentials needed for Java 11 and gradle.
+This fork is stripped down to the essentials needed for Java 8 and gradle.
 
 # Gilded Rose Refactoring Kata
 
